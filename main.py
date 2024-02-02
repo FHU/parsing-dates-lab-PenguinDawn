@@ -8,6 +8,7 @@
 #parse_date function should return the date formated as MM/DD/YYYY
 #DO NOT REMOVE THIS FUNCTION
 def parse_date(user_string):
+    #sub
     listing = user_string.split()
     print(listing)
     
