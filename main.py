@@ -47,7 +47,7 @@ def parse_date(user_string):
 
     
 
-#Here
+#Date
 if __name__ == '__main__':
     user_str = input()
     while user_str != "-1":
